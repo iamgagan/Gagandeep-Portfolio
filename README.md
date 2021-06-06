@@ -13,7 +13,7 @@ The project is to predict the employees who are more likely to quit the company.
 * **Algorithm used:** Logisitic Regression, Random Forest, Keras
 
 # [Project 2: Glassdoor_Data Science_salary_pjt]
-![alt text](franki-chamaki-1K6IQsQbizI-unsplash.jpg)
+![alt text](eadway-5QgIuuBxKwM-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@franki?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Franki Chamaki</a> on <a href="https://unsplash.com/s/photos/data-science?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
