@@ -9,7 +9,6 @@
 
 Photo by <a href="https://unsplash.com/@headwayio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Headway</a> on <a href="https://unsplash.com/s/photos/human-resources?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
-
 The project is to predict the employees who are more likely to quit the company.
 * **Algorithm used:** Logisitic Regression, Random Forest, Keras
 
